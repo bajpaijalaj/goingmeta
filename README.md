@@ -95,9 +95,9 @@ We will use this repo to share all resources used in the sessions. Give them a t
 | 6  | Mar 3 | Validating Neo4j Graphs with SHACL | `SHACL` `RDF` `Validation` | [📺](https://youtube.com/live/u7fsq5vEA3E) | [💻](https://github.com/jbarrasa/goingmeta/tree/main/session44) |
 | 7  | Apr 7 | Agent Skills For Creating and Using Ontologies | `Agents` `Ontology` `Skills` `LLM` | [📺](https://youtube.com/live/6bIUwMrKDlk) | [💻](https://github.com/jbarrasa/goingmeta/tree/main/session45) |
 | 8  | May 5 | The Graph Behind the Graph: Tracing Ontology Design Decisions | `Agents` `Ontology` `Skills` `LLM` | [📺](https://youtube.com/live/FuUNOBdRRLQ) | [💻](https://github.com/jbarrasa/goingmeta/tree/main/session46) |
-| 9  | June 2 | Shape agent memory with ontologies | `Agents` `Ontology` `Skills` `LLM`  | [📺](https://youtube.com/live/fEQlTt7vDb0) | [💻](https://github.com/jbarrasa/goingmeta/tree/main/session47) |
-| 10  | July 7 | Actionable Knowledge For Agents With Context Graphs | `Agents` `Ontology` `Skills` `LLM`  | [📺](https://youtube.com/live/JGFoTQt4GA0) | [💻](#) |
-| 11  | August | Unwrapping OKF (and Season 3) | `OKF` `Agents` `Ontology` `Skills` `LLM` | [📺](https://youtube.com/live/h4DLcWi9jGc) | [💻](#) |
+| 9  | June 2 | Shape agent memory with ontologies | `Agents` `Ontology` `Skills` `LLM`  | [📺](https://youtube.com/live/fEQlTt7vDb0) |  |
+| 10  | July 7 | Actionable Knowledge For Agents With Context Graphs | `Agents` `Ontology` `Skills` `LLM`  | [📺](https://youtube.com/live/JGFoTQt4GA0) | [💻](https://github.com/jbarrasa/goingmeta/tree/main/session48) |
+| 11  | August | Unwrapping OKF (and Season 3) | `OKF` `Agents` `Ontology` `Skills` `LLM` | [📺](https://youtube.com/live/h4DLcWi9jGc) | [💻](https://github.com/jbarrasa/goingmeta/tree/main/session49) |
 
 ### Going Meta is on a short break! We will return with Season 4
 
