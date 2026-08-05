@@ -97,5 +97,7 @@ We will use this repo to share all resources used in the sessions. Give them a t
 | 8  | May 5 | The Graph Behind the Graph: Tracing Ontology Design Decisions | `Agents` `Ontology` `Skills` `LLM` | [📺](https://youtube.com/live/FuUNOBdRRLQ) | [💻](https://github.com/jbarrasa/goingmeta/tree/main/session46) |
 | 9  | June 2 | Shape agent memory with ontologies | `Agents` `Ontology` `Skills` `LLM`  | [📺](https://youtube.com/live/fEQlTt7vDb0) | [💻](https://github.com/jbarrasa/goingmeta/tree/main/session47) |
 | 10  | July 7 | Actionable Knowledge For Agents With Context Graphs | `Agents` `Ontology` `Skills` `LLM`  | [📺](https://youtube.com/live/JGFoTQt4GA0) | [💻](#) |
-| 11  | August | tbd | | [📺](#) | [💻](#) |
+| 11  | August | Unwrapping OKF (and Season 3) | `OKF` `Agents` `Ontology` `Skills` `LLM` | [📺](https://youtube.com/live/h4DLcWi9jGc) | [💻](#) |
+
+### Going Meta is on a short break! We will return with Season 4
 
